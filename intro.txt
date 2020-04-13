@@ -1,0 +1,25 @@
+Lightning Component FrameWork :
+
+Build On Single Page Application with dynamic responsive user inerface.
+
+xml tags format with html element inside namespace:tagname
+namespace : force,lightning,ui.
+
+uses :
+
+1. App luncher
+2. App Navigator
+3. Inside HomePage,RecordPage,CommunityPage,Lightning StandAlone Page.
+
+Aura Component : 
+    Self Contained Reusable Encapsulated Units Of An App.
+
+Events : 
+    Aura Component interact enviorment with listening to an events or pusblishing an events.
+
+Component Event   :  These Event handle by component itself or the component content inside of component.(bublling)
+Application Event :  Any Subscriber component can handle these event.Based on publisher-Subscribe model.
+
+
+Aura Application : contains one or more component which can have their one or more children component.
+
